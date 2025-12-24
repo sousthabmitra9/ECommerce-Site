@@ -20,7 +20,7 @@ The project allows users to browse products, add them to a shopping cart, and se
 ## 🧰 Tech Stack
 
 - **Backend:** Python, Flask  
-- **Frontend:** HTML, CSS, Jinja2 Templates  
+- **Frontend:** HTML  
 - **Payments:** Stripe API  
 - **Environment Management:** python-dotenv  
 
